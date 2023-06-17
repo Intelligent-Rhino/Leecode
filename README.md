@@ -1,0 +1,2 @@
+# Leecode
+solution for leecode
